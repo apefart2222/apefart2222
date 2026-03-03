@@ -6,7 +6,4 @@ I'm a coder and game developer on Roblox!
 - I can code C#, And lua!
 
 ### My Projects
-I'm currently making a roblox game called "Rage Plate".
-This game is somewhat like horrific housing + Plates Of Fate
-But every player is on the same plate.
-Goal of the game is to survive all the "natural" disasters
+- Gorilla Tag Mod Menu (release soon)
